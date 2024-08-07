@@ -1,0 +1,9 @@
+[submodule "admin"]
+	path = admin
+	url = https://github.com/AliM-1997/e-learning-system-front.git
+[submodule "user"]
+	path = user
+	url = https://github.com/AliM-1997/e-learning-system-user-front.git
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/AliM-1997/-e-learning-system-back.git
